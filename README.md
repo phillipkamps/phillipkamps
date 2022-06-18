@@ -14,7 +14,7 @@ Early-career backend developer with a military and earth sciences background. I'
 
 ## &#x1f4c8; GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipkamps&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipkamps&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipkamps&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipkamps&hide=java&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
