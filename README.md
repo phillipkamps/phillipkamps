@@ -1,4 +1,4 @@
-<img src="https://github.com/phillipkamps/phillipkamps/blob/main/Hey,%20I'm%20Phillip.png?raw=true" width="720">
+<img src="https://github.com/phillipkamps/phillipkamps/blob/main/Hey,%20I'm%20Phillip.png?raw=true" width="846">
 
 ---
 
