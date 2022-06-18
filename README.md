@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Hi there, I'm Phillip!
+### Hey, I'm Phillip, welcome to my GitHub!
 
 ---
 
