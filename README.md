@@ -17,4 +17,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipkamps&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipkamps&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipkamps&show_icons=true&theme=radical)
