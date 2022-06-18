@@ -13,5 +13,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
 
 
+## &#x1f4c8; My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipkamps&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipkamps&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipkamps&show_icons=true&theme=radical)
