@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/phillipkamps)
+[![Header](https://raw.githubusercontent.com/phillipkamps/phillipkamps/readme_header.png "Header")
 
 ---
 
