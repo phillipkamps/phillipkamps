@@ -2,7 +2,7 @@
 
 ---
 
-Early-career backend developer with a military and earth sciences background. I'm an outside-the-box thinker who enjoys leading from the front, I want to help solve big problems. As a developer, my dream is to leverage my experience on projects that change the way people relate to the natural environment.
+Early-career software engineer with a military and earth sciences research background. I'm an outside-the-box thinker who enjoys leading from the front on small teams. I want to learn what’s necessary to solve big problems!
 
 ---
 
