@@ -2,7 +2,7 @@
 
 ---
 
-Early-career software engineer with a military and earth sciences research background. I'm an outside-the-box thinker who enjoys leading from the front on small teams. I want to learn what’s necessary to solve big problems!
+Early-career software engineer with a military, consulting, and earth sciences research background. I'm an outside-the-box thinker who enjoys leading from the front on small teams. I want to learn what’s necessary to solve big problems!
 
 ---
 
